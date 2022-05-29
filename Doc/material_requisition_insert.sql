@@ -1,0 +1,3124 @@
+
+
+/* INSERT QUERY NO: 1 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-FMR-0151', 'FIELD MATERIAL REQUISITION FOR TOP-UP STEEL STRUCTURES -  39-PLG-100', now()
+);
+
+/* INSERT QUERY NO: 2 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0110-101', 'MATERIAL REQUISITION FOR FIRED HEATERS', now()
+);
+
+/* INSERT QUERY NO: 3 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0110-R01', 'MATERIAL REQUISITION FOR FIRED HEATERS REVAMPING', now()
+);
+
+/* INSERT QUERY NO: 4 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0113-101', 'MATERIAL REQUISITION FOR REFORMER PACKAGE', now()
+);
+
+/* INSERT QUERY NO: 5 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0150-101', 'MATERIAL REQUISITION FOR AUXILIARY STEAM BOILERS', now()
+);
+
+/* INSERT QUERY NO: 6 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0182-101', 'MATERIAL REQUISITION FOR DERRICK SUPPORTED ELEVATED FLARE', now()
+);
+
+/* INSERT QUERY NO: 7 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0182-102', 'MATERIAL REQUISITION FOR DERRICK SUPPORTED ELEVATED FLARE â€“ FLARE COMPLETION', now()
+);
+
+/* INSERT QUERY NO: 8 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0210-101', 'MATERIAL REQUISITION FOR DEMINERALIZATION AND ULTRAFILTRATION PACKAGES', now()
+);
+
+/* INSERT QUERY NO: 9 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0270-101', 'MATERIAL REQUISITION FOR EQUIPMENT FOR WWT', now()
+);
+
+/* INSERT QUERY NO: 10 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0314-101', 'MATERIAL REQUISITION FOR COOLING TOWER FRP FOR WWT', now()
+);
+
+/* INSERT QUERY NO: 11 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0411-101', 'MATERIAL REQUISITION FOR HIGH PRESSURE LOW ALLOY REACTORS (VANADIUM) WELD OVERLAYED', now()
+);
+
+/* INSERT QUERY NO: 12 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0470-101', 'MATERIAL REQUISITION FOR PROPRIETARY INTERNALS FOR LOW ALLOY REACTORS', now()
+);
+
+/* INSERT QUERY NO: 13 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0470-R02', 'MATERIAL REQUISITION FOR EXISTING REACTORS (REVAMPING)', now()
+);
+
+/* INSERT QUERY NO: 14 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0511-101', 'MATERIAL REQUISITION FOR LARGE ASSEMBLED COLUMNS', now()
+);
+
+/* INSERT QUERY NO: 15 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0511-102', 'MATERIAL REQUISITION FOR SMALL ASSEMBLED COLUMNS', now()
+);
+
+/* INSERT QUERY NO: 16 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0570-101', 'MATERIAL REQUISITION FOR PROPRIETARY INTERNALS UOP UNITS', now()
+);
+
+/* INSERT QUERY NO: 17 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0570-102', 'MATERIAL REQUISITION FOR INTERNALS FOR LARGE COLUMNS (EX 2544-00-MR-0570-002)', now()
+);
+
+/* INSERT QUERY NO: 18 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0570-103', 'MATERIAL REQUISITION FOR INTERNALS FOR SMALL COLUMNS', now()
+);
+
+/* INSERT QUERY NO: 19 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0570-R02', 'MATERIAL REQUISITION FOR TRAYS AND INTERNALS FOR COLUMNS (REVAMP)', now()
+);
+
+/* INSERT QUERY NO: 20 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0610-101', 'MATERIAL REQUISITION FOR HP SHELL AND TUBE HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 21 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0610-102', 'MATERIAL REQUISITION FOR CRITICAL SHELL AND TUBE HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 22 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0610-103', 'MATERIAL REQUISITION FOR SHELL AND TUBE HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 23 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0610-104', 'MATERIAL REQUISITION FOR TEMA S&T HEAT EXCHANGERS BROWN FIELD', now()
+);
+
+/* INSERT QUERY NO: 24 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0610-105', 'MATERIAL REQUISITION FOR HIGH PERFORMANCE TUBES FOR HEAT EXCHANGERS (EX 2544-00-MR-0610-103)', now()
+);
+
+/* INSERT QUERY NO: 25 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0610-106', 'MATERIAL REQUISITION FOR VAPORIZER', now()
+);
+
+/* INSERT QUERY NO: 26 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0610-107', 'MATERIAL REQUISITION FOR TEMA S&T H.E. GREEN FIELD', now()
+);
+
+/* INSERT QUERY NO: 27 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0630-101', 'MATERIAL REQUISITION FOR HAIRPIN HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 28 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0661-101', 'MATERIAL REQUISITION FOR PLATE & FRAME HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 29 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0710-101', 'MATERIAL REQUISITION FOR AIR COOLED HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 30 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0710-R01', 'MATERIAL REQUISITION FOR MOTORS AND FANS FOR EXISTING AIRCOOLER (REVAMPING)', now()
+);
+
+/* INSERT QUERY NO: 31 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0811-101', 'MATERIAL REQUISITION FOR HP PRESSURE VESSELS', now()
+);
+
+/* INSERT QUERY NO: 32 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0811-103', 'MATERIAL REQUISITION FOR PRESSURE VESSELS GREEN FIELD', now()
+);
+
+/* INSERT QUERY NO: 33 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0811-104', 'MATERIAL REQUISITION FOR PRESSURE VESSELS BROWN FIELD VENDOR GMB', now()
+);
+
+/* INSERT QUERY NO: 34 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0811-105', 'MATERIAL REQUISITION FOR PRESSURE VESSELS GREEN-BROWN FIELD', now()
+);
+
+/* INSERT QUERY NO: 35 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0811-R01', 'MATERIAL REQUISITION FOR MISCELLANEA COMPONENTS (REVAMPING)', now()
+);
+
+/* INSERT QUERY NO: 36 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0836-101', 'MATERIAL REQUISITION FOR SILENCERS', now()
+);
+
+/* INSERT QUERY NO: 37 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0841-101', 'MATERIAL REQUISITION FOR FILTERS', now()
+);
+
+/* INSERT QUERY NO: 38 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0844-101', 'MATERIAL REQUISITION FOR COALESCERS', now()
+);
+
+/* INSERT QUERY NO: 39 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0845-101', 'MATERIAL REQUISITION FOR DEAERATOR', now()
+);
+
+/* INSERT QUERY NO: 40 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0846-101', 'MATERIAL REQUISITION FOR BACKWASH FILTERS', now()
+);
+
+/* INSERT QUERY NO: 41 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0846-R01', 'MATERIAL REQUISITION FOR FEED FILTERS (REVAMPING)', now()
+);
+
+/* INSERT QUERY NO: 42 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0851-101', 'MATERIAL REQUISITION FOR VACUUM UNIT PACKAGES (REF. TO 2544-00-MR-0851-001)', now()
+);
+
+/* INSERT QUERY NO: 43 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0852-101', 'MATERIAL REQUISITION FOR EJECTORS', now()
+);
+
+/* INSERT QUERY NO: 44 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0853-101', 'MATERIAL REQUISITION FOR DESUPERHEATERS', now()
+);
+
+/* INSERT QUERY NO: 45 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-101', 'MATERIAL REQUISITION FOR LARGE CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 46 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-105', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS NEW PROCESS UNITS', now()
+);
+
+/* INSERT QUERY NO: 47 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-106', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 48 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-107', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 49 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-108', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS NEW PROCESS UNITS', now()
+);
+
+/* INSERT QUERY NO: 50 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-109', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 51 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-110', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 52 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-111', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS NEW PROCESS UNITS', now()
+);
+
+/* INSERT QUERY NO: 53 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-112', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 54 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-113', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 55 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-114', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 56 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-R01', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS (REVAMPING) FOR FLOWSERVE (EX MIDOR 2544-00-MR-0910-R02)', now()
+);
+
+/* INSERT QUERY NO: 57 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-R02', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS (REVAMP -GABBIONETA)', now()
+);
+
+/* INSERT QUERY NO: 58 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0910-R03', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS (REVAMP - SUNDYNE)', now()
+);
+
+/* INSERT QUERY NO: 59 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0912-102', 'MATERIAL REQUISITION FOR SUBMERGIBLE PUMPS FOR NEW WWT', now()
+);
+
+/* INSERT QUERY NO: 60 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0920-101', 'MATERIAL REQUISITION FOR RECIPROCATING PUMPS', now()
+);
+
+/* INSERT QUERY NO: 61 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0931-R01', 'MATERIAL REQUISITION FOR ROTARY SCREW PUMPS REVAMP', now()
+);
+
+/* INSERT QUERY NO: 62 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0932-101', 'MATERIAL REQUISITION FOR PROGRESSIVE CAVITY PUMPS', now()
+);
+
+/* INSERT QUERY NO: 63 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0940-101', 'MATERIAL REQUISITION FOR PROPORTIONING PUMPS', now()
+);
+
+/* INSERT QUERY NO: 64 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-0950-101', 'MATERIAL REQUISITION FOR MECHANICAL SEALS WITH API PLANS', now()
+);
+
+/* INSERT QUERY NO: 65 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1011-101', 'MATERIAL REQUISITION FOR CENTRIFUGAL COMPRESSORS', now()
+);
+
+/* INSERT QUERY NO: 66 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1013-101', 'MATERIAL REQUISITION FOR API 672 INTEGRALLY GEARED AIR COMPRESSORS (EX 2544-00-MR-1013-201)', now()
+);
+
+/* INSERT QUERY NO: 67 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1020-101', 'MATERIAL REQUISITION FOR RECIPROCATING COMPRESSORS', now()
+);
+
+/* INSERT QUERY NO: 68 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1020-102', 'MATERIAL REQUISITION FOR RECIPROCATING COMPRESSORS (REF. TO 2544-00-MR-1020-301)', now()
+);
+
+/* INSERT QUERY NO: 69 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1031-101', 'MATERIAL REQUISITION FOR ROTARY SCREW COMPRESSORS', now()
+);
+
+/* INSERT QUERY NO: 70 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1040-102', 'MATERIAL REQUISITION FOR STABILIZATION BLOWER', now()
+);
+
+/* INSERT QUERY NO: 71 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1300-901', 'MATERIAL REQUISITION FOR PIPING FOR TIE-IN 1ST SHUTDOWN', now()
+);
+
+/* INSERT QUERY NO: 72 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1300-904', 'MATERIAL REQUISITION FOR MATERIAL FOR TIE-INS', now()
+);
+
+/* INSERT QUERY NO: 73 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-101', 'MATERIAL REQUISITION FOR GATE GLOBE AND CHECK FORGED VALVES', now()
+);
+
+/* INSERT QUERY NO: 74 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-102', 'MATERIAL REQUISITION FOR GATE GLOBE & CHECK CAST VALVES (#150-300-600)', now()
+);
+
+/* INSERT QUERY NO: 75 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-104', 'MATERIAL REQUISITION FOR BUTTERFLY VALVES HIGH PERFORMANCE TYPE', now()
+);
+
+/* INSERT QUERY NO: 76 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-108', 'MATERIAL REQUISITION FOR BALL VALVES', now()
+);
+
+/* INSERT QUERY NO: 77 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-111', 'MATERIAL REQUISITION FOR DIAPHRAGM VALVES', now()
+);
+
+/* INSERT QUERY NO: 78 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-112', 'MATERIAL REQUISITION FOR GATE GLOBE & CHECK CAST VALVES HIGH RATING (#900-1500-2500)', now()
+);
+
+/* INSERT QUERY NO: 79 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-114', 'MATERIAL REQUISITION FOR DUAL PLATE CHECK VALVES', now()
+);
+
+/* INSERT QUERY NO: 80 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-115', 'MATERIAL REQUISITION FOR NOZZLE CHECK VALVES - ITEMIZED', now()
+);
+
+/* INSERT QUERY NO: 81 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-118', 'MATERIAL REQUISITION FOR BALL VALVES', now()
+);
+
+/* INSERT QUERY NO: 82 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-121', 'MATERIAL REQUISITION FOR GATE GLOBE & CHECK FORGED VALVES', now()
+);
+
+/* INSERT QUERY NO: 83 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-126', 'MATERIAL REQUISITION FOR PLUG VALVES NON LUBRICATED TYPE', now()
+);
+
+/* INSERT QUERY NO: 84 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-901', 'MATERIAL REQUISITION FOR FORGED VALVES FOR TIE INS ALL SHUTDOWNS', now()
+);
+
+/* INSERT QUERY NO: 85 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-902', 'MATERIAL REQUISITION FOR CAST VALVES FOR TIE INS 1ST SHUTDOWN', now()
+);
+
+/* INSERT QUERY NO: 86 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-912', 'MATERIAL REQUISITION FOR CAST VALVES FOR TIE-INS', now()
+);
+
+/* INSERT QUERY NO: 87 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1310-922', 'MATERIAL REQUISITION FOR CAST VALVES FOR TIE-INS FRAME AGREEMENT', now()
+);
+
+/* INSERT QUERY NO: 88 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1320-106', 'MATERIAL REQUISITION FOR TUBING AND COMPRESSION FITTING', now()
+);
+
+/* INSERT QUERY NO: 89 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1321-101', 'MATERIAL REQUISITION FOR CARBON & ALLOY STEEL SEAMLESS PIPES LOW PRESSURE', now()
+);
+
+/* INSERT QUERY NO: 90 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1321-102', 'MATERIAL REQUISITION FOR CARBON & ALLOY STEEL WELDED PIPES', now()
+);
+
+/* INSERT QUERY NO: 91 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1321-111', 'MATERIAL REQUISITION FOR CARBON AND ALLOY STEEL SEAMLESS PIPES HIGH PRESSURE AND TOP URGENT SEAMLESS PIPES', now()
+);
+
+/* INSERT QUERY NO: 92 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1324-101', 'MATERIAL REQUISITION FOR STAINLESS STEEL SEAMLESS PIPES', now()
+);
+
+/* INSERT QUERY NO: 93 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1324-102', 'MATERIAL REQUISITION FOR STAINLESS STEEL WELDED PIPES', now()
+);
+
+/* INSERT QUERY NO: 94 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1329-101', 'MATERIAL REQUISITION FOR EXTERNAL COASTED CARBON STEEL PIPING', now()
+);
+
+/* INSERT QUERY NO: 95 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1329-105', 'MATERIAL REQUISITION FOR LINED CARBON STEEL PIPING', now()
+);
+
+/* INSERT QUERY NO: 96 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1330-101', 'MATERIAL REQUISITION FOR BUTTWELDING FITTINGS', now()
+);
+
+/* INSERT QUERY NO: 97 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1330-111', 'MATERIAL REQUISITION FOR BUTTWELDING FITTINGS', now()
+);
+
+/* INSERT QUERY NO: 98 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1339-101', 'MATERIAL REQUISITION FOR LOW PRESSURE CLAMPED PIPING', now()
+);
+
+/* INSERT QUERY NO: 99 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1340-101', 'MATERIAL REQUISITION FOR FORGED FITTINGS & OLETS', now()
+);
+
+/* INSERT QUERY NO: 100 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1350-101', 'MATERIAL REQUISITION FOR FLANGES, BLIND & DRIP RINGS', now()
+);
+
+/* INSERT QUERY NO: 101 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1350-111', 'MATERIAL REQUISITION FOR FLANGES, BLIND & DRIP RINGS', now()
+);
+
+/* INSERT QUERY NO: 102 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1360-101', 'MATERIAL REQUISITION FOR GASKETS', now()
+);
+
+/* INSERT QUERY NO: 103 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1370-101', 'MATERIAL REQUISITION FOR BOLTINGS', now()
+);
+
+/* INSERT QUERY NO: 104 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1383-101', 'MATERIAL REQUISITION FOR ITEMIZED PIPING SUPPORTS', now()
+);
+
+/* INSERT QUERY NO: 105 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1392-101', 'MATERIAL REQUISITION FOR STEAM TRAPS AND MANIFOLDS', now()
+);
+
+/* INSERT QUERY NO: 106 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1394-101', 'MATERIAL REQUISITION FOR HOSES & HOSES CONNECTIONS', now()
+);
+
+/* INSERT QUERY NO: 107 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1395-101', 'MATERIAL REQUISITION FOR STRAINERS', now()
+);
+
+/* INSERT QUERY NO: 108 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1395-103', 'MATERIAL REQUISITION FOR SIGHT GLASSES', now()
+);
+
+/* INSERT QUERY NO: 109 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1396-101', 'MATERIAL REQUISITION FOR SAMPLE CONNECTIONS', now()
+);
+
+/* INSERT QUERY NO: 110 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1398-101', 'MATERIAL REQUISITION FOR FLAME ARRESTORS AND CONSERVATION VENTS', now()
+);
+
+/* INSERT QUERY NO: 111 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1399-103', 'MATERIAL REQUISITION FOR INJECTION QUILLS', now()
+);
+
+/* INSERT QUERY NO: 112 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1399-106', 'MATERIAL REQUISITION FOR THERMAL SLEEVES', now()
+);
+
+/* INSERT QUERY NO: 113 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1511-101', 'MATERIAL REQUISITION FOR INTEGRATED CONTROL & SAFETY SYSTEMS', now()
+);
+
+/* INSERT QUERY NO: 114 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1511-102', 'MATERIAL REQUISITION FOR ICSS - EARLY ACTIVITIES', now()
+);
+
+/* INSERT QUERY NO: 115 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1515-102', 'MATERIAL REQUISITION FOR FIRE AND GAS DETECTION SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 116 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1515-103', 'MATERIAL REQUISITION FOR MMS - MACHINERY MONITORING SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 117 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1530-101', 'MATERIAL REQUSITION FOR TELECOMMUNICATION SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 118 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1541-101', 'MATERIAL REQUSITION FOR CONTROL VALVES', now()
+);
+
+/* INSERT QUERY NO: 119 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1541-102', 'MATERIAL REQUSITION FOR CONTROL VALVES', now()
+);
+
+/* INSERT QUERY NO: 120 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1541-104', 'MATERIAL REQUISITION FOR STEAM LET-DOWN VALVES', now()
+);
+
+/* INSERT QUERY NO: 121 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1542-101', 'MATERIAL REQUSITION FOR DESUPERHEATER VALVES', now()
+);
+
+/* INSERT QUERY NO: 122 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1543-101', 'MATERIAL REQUISITION FOR PNEUMATIC  FOR ON OFF VALVES VENDOR: SFEROVA', now()
+);
+
+/* INSERT QUERY NO: 123 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1543-102', 'MATERIAL REQUISITION FOR ELECTRICAL OPERATED VALVES', now()
+);
+
+/* INSERT QUERY NO: 124 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1543-103', 'MATERIAL REQUISITION FOR PNEUMATIC  FOR ELECTRIC OPERATED VALVES', now()
+);
+
+/* INSERT QUERY NO: 125 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1543-104', 'MATERIAL REQUISITION FOR PNEUMATIC BUTTERFLY ONOFF VALVES', now()
+);
+
+/* INSERT QUERY NO: 126 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1543-106', 'MATERIAL REQUISITION FOR PNEUMATIC ON OFF VALVES', now()
+);
+
+/* INSERT QUERY NO: 127 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1544-101', 'MATERIAL REQUISITION FOR PNEUMATIC ACTUATORS FOR ON OFF VALVES', now()
+);
+
+/* INSERT QUERY NO: 128 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1545-101', 'MATERIAL REQUISITION FOR PRESSURE SAFETY VALVES AND RUPTURE DISKS', now()
+);
+
+/* INSERT QUERY NO: 129 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1546-101', 'MATERIAL REQUISITION FOR DIFFERENTIAL FLOW ELEMENTS', now()
+);
+
+/* INSERT QUERY NO: 130 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1546-103', 'MATERIAL REQUISITION FOR DIFFERENTIAL FLOW ELEMENTS', now()
+);
+
+/* INSERT QUERY NO: 131 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1546-104', 'MATERIAL REQUISITION FOR DIFFERENTIAL FLOW ELEMENTS', now()
+);
+
+/* INSERT QUERY NO: 132 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1547-101', 'MATERIAL REQUISITION FOR VORTEX FLOW METERS', now()
+);
+
+/* INSERT QUERY NO: 133 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1547-102', 'MATERIAL REQUISITION FOR ROTAMETERS', now()
+);
+
+/* INSERT QUERY NO: 134 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1547-103', 'MATERIAL REQUISITION FOR TURBINE FLOW METERS', now()
+);
+
+/* INSERT QUERY NO: 135 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1547-104', 'MATERIAL REQUISITION FOR TURBINE FLOW METERS', now()
+);
+
+/* INSERT QUERY NO: 136 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1547-105', 'MATERIAL REQUISITION FOR MAGNETIC FLOW METERS', now()
+);
+
+/* INSERT QUERY NO: 137 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1547-106', 'MATERIAL REQUISITION FOR CORIOLIS FLOW METERS', now()
+);
+
+/* INSERT QUERY NO: 138 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1547-107', 'MATERIAL REQUISITION FOR ULTRASONIC FLOW METERS', now()
+);
+
+/* INSERT QUERY NO: 139 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1552-101', 'MATERIAL REQUISITION FOR RADAR LEVEL TRANSMITTERS (EX 2544-00-MR-1552-104/2544-00-MR-1512-104)', now()
+);
+
+/* INSERT QUERY NO: 140 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1552-108', 'MATERIAL REQUISITION FOR MAGNETIC LEVEL AND GLASS GAUGES', now()
+);
+
+/* INSERT QUERY NO: 141 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1553-101', 'MATERIAL REQUISITION FOR PRESSURE DP AND TEMPERATURE ELECTRONIC TRANSMITTERS', now()
+);
+
+/* INSERT QUERY NO: 142 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1553-130', 'MATERIAL REQUISITION FOR PRESSURE AND DIFF. PRESSURE GAUGES THERMOMETERS AND THERMOWELLS', now()
+);
+
+/* INSERT QUERY NO: 143 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1554-101', 'MATERIAL REQUISITION FOR THERMOCOUPLE / RTD WITH WELL', now()
+);
+
+/* INSERT QUERY NO: 144 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1554-106', 'MATERIAL REQUISITION FOR MULTI THERMOCOUPLES AND THERMOWELLS FOR REACTORS', now()
+);
+
+/* INSERT QUERY NO: 145 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1558-191', 'MATERIAL REQUISITION FOR CORROSION COUPON AND CORROSION MONITORING', now()
+);
+
+/* INSERT QUERY NO: 146 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1562-101', 'MATERIAL REQUISITION FOR SPECIFIC COMPONENT AND WATER ANALYZER', now()
+);
+
+/* INSERT QUERY NO: 147 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1565-101', 'MATERIAL REQUISITION FOR CEMS AND O2 AND COMBUSTIBLES IN FLUE GAS ANALYZERS', now()
+);
+
+/* INSERT QUERY NO: 148 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1566-101', 'MATERIAL REQUISITION FOR FIRE AND GAS FIELD SENSORS AND ACTUATING DEVICES', now()
+);
+
+/* INSERT QUERY NO: 149 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1572-101', 'MATERIAL REQUISITION FOR MOUNTING ACCESSORIES (TUBING&FITTING)', now()
+);
+
+/* INSERT QUERY NO: 150 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1572-102', 'MATERIAL REQUISITION FOR INSTRUMENT CABLE TRAY AND ACCESSORIES', now()
+);
+
+/* INSERT QUERY NO: 151 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1574-101', 'MATERIAL REQUISITION FOR INSTRUMENT AND TELECOM CABLES', now()
+);
+
+/* INSERT QUERY NO: 152 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1575-101', 'MATERIAL REQUISITION FOR JUNCTION BOX WITH CABLE GLANDS', now()
+);
+
+/* INSERT QUERY NO: 153 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1585-101', 'MATERIAL REQUISITION FOR ANALYZER SHELTERS PACKAGE', now()
+);
+
+/* INSERT QUERY NO: 154 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1620-101', 'MATERIAL REQUISITION FOR ELECTRICAL POWER MATERIAL', now()
+);
+
+/* INSERT QUERY NO: 155 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1621-101', 'MATERIAL REQUISITION FOR POWER, CONTROL AND EARTHING CABLES & MEDIUM VOLTAGE CABLE TERMINALS AND JOINTS', now()
+);
+
+/* INSERT QUERY NO: 156 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1622-102', 'MATERIAL REQUISITION FOR ELECTRICAL CONDUITS AND GROUNDING MATERIAL', now()
+);
+
+/* INSERT QUERY NO: 157 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1630-101', 'MATERIAL REQUISITION FOR LIGHTING MATERIALS, POLES AND TOWERS', now()
+);
+
+/* INSERT QUERY NO: 158 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1631-101', 'MATERIAL REQUISITION FOR LIGHTING AND MOV PANELS', now()
+);
+
+/* INSERT QUERY NO: 159 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1641-101', 'MATERIAL REQUISITION FOR EL. POWER AND DISTRIBUTION TRANSF. NEUTRAL GROUNDING RESISTORS AND FEEDER CURRENT LIMITING REAC', now()
+);
+
+/* INSERT QUERY NO: 160 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1652-101', 'MATERIAL REQUISITION FOR NEW 33KV AND 66KV MEDIUM VOLTAGE SWITCHGEARS', now()
+);
+
+/* INSERT QUERY NO: 161 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1652-R01', 'MATERIAL REQUISITION FOR 66KV MEDIUM VOLTAGE SWITCHGEARS REVAMPING AND NEW 33KW SWITCHGEAR IN S/S1', now()
+);
+
+/* INSERT QUERY NO: 162 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1654-101', 'MATERIAL REQUISITION FOR LOW VOLTAGE SWITCHGEARS AND BUS DUCTS', now()
+);
+
+/* INSERT QUERY NO: 163 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1654-R01', 'MATERIAL REQUISITION FOR LOW VOLTAGE SWITCHGEARS (REVAMPING)', now()
+);
+
+/* INSERT QUERY NO: 164 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1656-101', 'MATERIAL REQUISITION FOR CAPACITOR BANKS', now()
+);
+
+/* INSERT QUERY NO: 165 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1661-101', 'MATERIAL REQUISITION FOR ECMS - ELECTRICAL CONTROL AND MONITORING SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 166 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1661-R01', 'MATERIAL REQUISITION FOR EXTENSION OF ELECTRICAL CONTROL AND MONITORING SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 167 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1671-101', 'MATERIAL REQUISITION FOR ELECTRICAL POWER AND AC AND DC UPS SYSTEMS', now()
+);
+
+/* INSERT QUERY NO: 168 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1682-101', 'MATERIAL REQUISITION FOR ELECTRICAL HEAT TRACING', now()
+);
+
+/* INSERT QUERY NO: 169 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1684-101', 'MATERIAL REQUISITION FOR CATHODIC PROTECTION SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 170 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1800-101', 'MATERIAL REQUISITION FOR STEEL STRUCTURES - UNITS 18-20-21', now()
+);
+
+/* INSERT QUERY NO: 171 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1800-102', 'MATERIAL REQUISITION FOR STEEL STRUCTURES - UNITS 46-51-52-53-58-60', now()
+);
+
+/* INSERT QUERY NO: 172 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1800-103', 'MATERIAL REQUISITION FOR STEEL STRUCTURES - UNITS 02-05-07-08-11-31-37-54', now()
+);
+
+/* INSERT QUERY NO: 173 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1810-101', 'MATERIAL REQUISITION FOR GRATINGS AND EMBOSED PLATES FIXING HILTI CLIPS', now()
+);
+
+/* INSERT QUERY NO: 174 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1820-101', 'MATERIAL REQUISITION FOR LADDERS AND PLATFORMS FOR PRESSURE EQUIPMENT', now()
+);
+
+/* INSERT QUERY NO: 175 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1900-101', 'MATERIAL REQUISITION FOR FIREFIGHTING EQUIPMENT', now()
+);
+
+/* INSERT QUERY NO: 176 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-1900-102', 'MATERIAL REQUISITION FOR SAFETY EQUIPMENT', now()
+);
+
+/* INSERT QUERY NO: 177 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-2510-102', 'MATERIAL REQUISITION FOR FRP TANK', now()
+);
+
+/* INSERT QUERY NO: 178 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-2520-101', 'MATERIAL REQUISITION FOR STORAGE TANKS ASSEMBLED ON SITE', now()
+);
+
+/* INSERT QUERY NO: 179 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4046-101', 'MATERIAL REQUISITION FOR DOSING SYSTEMS', now()
+);
+
+/* INSERT QUERY NO: 180 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4046-R01', 'MATERIAL REQUISITION FOR DOSING SYSTEMS REVAMPING', now()
+);
+
+/* INSERT QUERY NO: 181 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4065-101', 'MATERIAL REQUISITION FOR BRIDGE CRANES AND MONORAIL CRANES', now()
+);
+
+/* INSERT QUERY NO: 182 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4110-101', 'MATERIAL REQUISITION FOR MODULAR LPG TREATMENT UNIT', now()
+);
+
+/* INSERT QUERY NO: 183 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4111-101', 'MATERIAL REQUISITION FOR PSA UNIT (EX 2544-00-MR-4111-001)', now()
+);
+
+/* INSERT QUERY NO: 184 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4117-101', 'MATERIAL REQUISITION FOR LIN STORAGE PACKAGE', now()
+);
+
+/* INSERT QUERY NO: 185 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4118-101', 'MATERIAL REQUISITION FOR FUEL GAS PREPARATION PACKAGES', now()
+);
+
+/* INSERT QUERY NO: 186 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4123-101', 'MATERIAL REQUISITION FOR EMERGENCY DIESEL GENERATORS', now()
+);
+
+/* INSERT QUERY NO: 187 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4151-101', 'MATERIAL REQUISITION FOR REFRIGERATION PACKAGE', now()
+);
+
+/* INSERT QUERY NO: 188 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4171-101', 'MATERIAL REQUISITION FOR INSTRUMENT AIR DRYING PACKAGE', now()
+);
+
+/* INSERT QUERY NO: 189 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4234-101', 'MATERIAL REQUISITION FOR WALTER FILTRATION PACKAGES', now()
+);
+
+/* INSERT QUERY NO: 190 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4261-101', 'MATERIAL REQUISITION FOR MECHANICAL AGITATORS', now()
+);
+
+/* INSERT QUERY NO: 191 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4261-102', 'MATERIAL REQUISITION FOR SUBMERSIBLE MECHANICAL AGITATORS', now()
+);
+
+/* INSERT QUERY NO: 192 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-MR-4263-101', 'MATERIAL REQUISITION FOR STATIC MIXERS', now()
+);
+
+/* INSERT QUERY NO: 193 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-0000-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - COMMON DOCUMENTS', now()
+);
+
+/* INSERT QUERY NO: 194 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-1300-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - PREFAB/ERECTION', now()
+);
+
+/* INSERT QUERY NO: 195 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-1400-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - UNDERGROUNG', now()
+);
+
+/* INSERT QUERY NO: 196 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-1500-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - INSTRUMENTATION', now()
+);
+
+/* INSERT QUERY NO: 197 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-1600-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - ELECTRICAL', now()
+);
+
+/* INSERT QUERY NO: 198 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-1700-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - CIVIL WORKS', now()
+);
+
+/* INSERT QUERY NO: 199 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-1800-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - STRUCTURES', now()
+);
+
+/* INSERT QUERY NO: 200 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-2000-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - BUILDINGS', now()
+);
+
+/* INSERT QUERY NO: 201 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-2000-01A', 'HEATING - VENTILATION - AIR CONDITIONING', now()
+);
+
+/* INSERT QUERY NO: 202 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-2000-01B', 'ELECTRICAL SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 203 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-2000-01C', 'COMMUNICATION SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 204 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-2000-01D', 'FIRE PROTECTION, FIRE DETECTION ,GAS DETECTION ALARM SYSTEM & CABLES WAYS', now()
+);
+
+/* INSERT QUERY NO: 205 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-2000-01E', 'ELECTRICAL BUILDINGS', now()
+);
+
+/* INSERT QUERY NO: 206 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-2200-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - INSULATION', now()
+);
+
+/* INSERT QUERY NO: 207 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-2300-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - PAINTING', now()
+);
+
+/* INSERT QUERY NO: 208 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-6800-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - MECHANICAL', now()
+);
+
+/* INSERT QUERY NO: 209 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-8200-002', 'SUBCONTRACT BETWEEN TPIT EGYPT BRANCH AND PETROJET - TCF', now()
+);
+
+/* INSERT QUERY NO: 210 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-00-WC-8210-002', 'TEMPORARY CONSTRUCTION FACILITIES SUPPLY', now()
+);
+
+/* INSERT QUERY NO: 211 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0110-201', 'MATERIAL REQUISITION FOR FIRED HEATERS', now()
+);
+
+/* INSERT QUERY NO: 212 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0310-201', 'MATERIAL REQUISITION FOR COOLING TOWERS', now()
+);
+
+/* INSERT QUERY NO: 213 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0511-201', 'MATERIAL REQUISITION FOR MAIN SHOP ASSEMBLED COLUMNS', now()
+);
+
+/* INSERT QUERY NO: 214 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0511-202', 'MATERIAL REQUISITION FOR SMALL SHOP ASSEMBLED COLUMNS', now()
+);
+
+/* INSERT QUERY NO: 215 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0570-201', 'MATERIAL REQUISITION FOR PROPRIETARY INTERNALS FOR MAIN SHOP ASSEMBLED COLUMNS (REF TO 2544-00-MR-0570-01)', now()
+);
+
+/* INSERT QUERY NO: 216 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0570-202', 'MATERIAL REQUISITION FOR INTERNALS FOR MAIN SHOP ASSEMBLED COLUMNS', now()
+);
+
+/* INSERT QUERY NO: 217 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0570-203', 'MATERIAL REQUISITION FOR INTERNALS FOR SMALL COLUMNS', now()
+);
+
+/* INSERT QUERY NO: 218 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0610-202', 'MATERIAL REQUISITION FOR SPECIAL MATERIAL SHELL AND TUBE HEAT EXCHANGERS (EX 2544-0A-MR-0610-201)', now()
+);
+
+/* INSERT QUERY NO: 219 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0610-203', 'MATERIAL REQUISITION FOR SHELL AND TUBE HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 220 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0610-204', 'MATERIAL REQUISITION FOR SHELL AND TUBE HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 221 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0630-201', 'MATERIAL REQUISITION FOR HAIR PIN HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 222 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0710-201', 'MATERIAL REQUISITION FOR AIR COOLED HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 223 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0811-203', 'MATERIAL REQUISITION FOR PRESSURE VESSELS', now()
+);
+
+/* INSERT QUERY NO: 224 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0811-204', 'MATERIAL REQUISITION FOR PRESSURE VESSELS', now()
+);
+
+/* INSERT QUERY NO: 225 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0836-201', 'MATERIAL REQUISITION FOR SILENCERS', now()
+);
+
+/* INSERT QUERY NO: 226 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0841-201', 'MATERIAL REQUISITION FOR FILTERS', now()
+);
+
+/* INSERT QUERY NO: 227 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0846-201', 'MATERIAL REQUISITION FOR BACKWASH FILTERS PACKAGE (EX MIDOR CODE 2544-0A-MR-0846-201)', now()
+);
+
+/* INSERT QUERY NO: 228 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0851-201', 'MATERIAL REQUISITION FOR VACUUM UNIT PACKAGE (REF: 00-MR-0851-001)', now()
+);
+
+/* INSERT QUERY NO: 229 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0852-201', 'MATERIAL REQUISITION FOR EDUCTORS', now()
+);
+
+/* INSERT QUERY NO: 230 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0910-201', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 231 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0910-205', 'MATERIAL REQUISITION FOR SEALLESS PUMPS', now()
+);
+
+/* INSERT QUERY NO: 232 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0912-202', 'MATERIAL REQUISITION FOR SUBMERGIBLE PUMPS', now()
+);
+
+/* INSERT QUERY NO: 233 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0920-201', 'MATERIAL REQUISITION FOR RECIPROCATING PUMPS', now()
+);
+
+/* INSERT QUERY NO: 234 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-0931-201', 'MATERIAL REQUISITION FOR ROTARY SCREW PUMPS (REF.: 2544-00-MR-0931-201)', now()
+);
+
+/* INSERT QUERY NO: 235 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1020-201', 'MATERIAL REQUISITION FOR RECIPROCATING COMPRESSORS', now()
+);
+
+/* INSERT QUERY NO: 236 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1310-201', 'MATERIAL REQUISITION FOR GATE GLOBE AND CHECK FORGED VALVES', now()
+);
+
+/* INSERT QUERY NO: 237 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1310-202', 'MATERIAL REQUISITION FOR GATE GLOBE & CHECK CAST VALVES', now()
+);
+
+/* INSERT QUERY NO: 238 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1310-204', 'MATERIAL REQUISITION FOR BUTTERFLY VALVES', now()
+);
+
+/* INSERT QUERY NO: 239 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1310-207', 'MATERIAL REQUISITION FOR PLUG VALVES', now()
+);
+
+/* INSERT QUERY NO: 240 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1310-208', 'MATERIAL REQUISITION FOR BALL VALVES', now()
+);
+
+/* INSERT QUERY NO: 241 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1310-210', 'MATERIAL REQUISITION FOR SPECIAL VALVES', now()
+);
+
+/* INSERT QUERY NO: 242 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1310-212', 'MATERIAL REQUISITION FOR CAST VALVES HIGH RATING', now()
+);
+
+/* INSERT QUERY NO: 243 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1310-214', 'MATERIAL REQUISITION FOR DUAL PLATE CHECK VALVES', now()
+);
+
+/* INSERT QUERY NO: 244 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1310-224', 'MATERIAL REQUISITION FOR BUTTERFLY VALVES', now()
+);
+
+/* INSERT QUERY NO: 245 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1320-206', 'MATERIAL REQUISITION FOR TUBING', now()
+);
+
+/* INSERT QUERY NO: 246 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1321-201', 'MATERIAL REQUISITION FOR CARBON STEEL SEAMLESS AND WELDED PIPES', now()
+);
+
+/* INSERT QUERY NO: 247 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1322-201', 'MATERIAL REQUISITION FOR ALLOY STEEL SEAMLESS AND WELDED PIPES', now()
+);
+
+/* INSERT QUERY NO: 248 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1324-201', 'MATERIAL REQUISITION FOR STAINLESS STEEL SMLS & WLD PIPES', now()
+);
+
+/* INSERT QUERY NO: 249 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1328-201', 'MATERIAL REQUISITION FOR FIBERGLASS REINFORCED PLASTIC GRP PIPING', now()
+);
+
+/* INSERT QUERY NO: 250 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1328-202', 'MATERIAL REQUISITION FOR HDPE/PVC/PP PIPING', now()
+);
+
+/* INSERT QUERY NO: 251 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1329-205', 'MATERIAL REQUISITION FOR PE COATED SMLS AND WLD PIPES', now()
+);
+
+/* INSERT QUERY NO: 252 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1330-201', 'MATERIAL REQUISITION FOR BW FITTINGS', now()
+);
+
+/* INSERT QUERY NO: 253 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1339-201', 'MATERIAL REQUISITION FOR GROOVED FITTINGS', now()
+);
+
+/* INSERT QUERY NO: 254 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1340-201', 'MATERIAL REQUISITION FOR FORGED FITTINGS', now()
+);
+
+/* INSERT QUERY NO: 255 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1350-201', 'MATERIAL REQUISITION FOR FLANGES BLINDS & DRIP RINGS', now()
+);
+
+/* INSERT QUERY NO: 256 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1360-201', 'MATERIAL REQUISITION FOR GASKETS & INSULATING SETS', now()
+);
+
+/* INSERT QUERY NO: 257 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1370-201', 'MATERIAL REQUISITION FOR BOLTING', now()
+);
+
+/* INSERT QUERY NO: 258 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1383-201', 'MATERIAL REQUISITION FOR ITEMIZED PIPING SUPPORTS', now()
+);
+
+/* INSERT QUERY NO: 259 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1386-201', 'MATERIAL REQUISITION FOR SHOCK ABSORBERS', now()
+);
+
+/* INSERT QUERY NO: 260 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1391-201', 'MATERIAL REQUISITION FOR EXPANSION JOINTS', now()
+);
+
+/* INSERT QUERY NO: 261 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1393-201', 'MATERIAL REQUISITION FOR SUCTION BELL', now()
+);
+
+/* INSERT QUERY NO: 262 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1394-201', 'MATERIAL REQUISITION FOR HOSES & HOSE CONNECTIONS', now()
+);
+
+/* INSERT QUERY NO: 263 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1395-201', 'MATERIAL REQUISITION FOR STRAINERS, SIGHT FLOW INDICATORS, STEAM TRAPS AND MANIFOLDS', now()
+);
+
+/* INSERT QUERY NO: 264 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1396-201', 'MATERIAL REQUISITION FOR SAMPLE PANEL', now()
+);
+
+/* INSERT QUERY NO: 265 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1398-201', 'MATERIAL REQUISITION FOR FLAME ARRESTOR', now()
+);
+
+/* INSERT QUERY NO: 266 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1511-201', 'MATERIAL REQUISITION FOR INTEGRATED CONTROL AND SAFETY SYSTEM (EX MIDOR CODE 2544-0A-MR-1511-201)', now()
+);
+
+/* INSERT QUERY NO: 267 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1515-202', 'MATERIAL REQUISITION FOR FIRE AND GAS DETECTION SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 268 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1515-203', 'MATERIAL REQUISITION FOR MACHINE MONITORING SYSTEM (MMS)', now()
+);
+
+/* INSERT QUERY NO: 269 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1518-202', 'MATERIAL REQUISITION FOR OPERATOR TRAINING SIMULATOR (OTS)', now()
+);
+
+/* INSERT QUERY NO: 270 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1541-201', 'MATERIAL REQUISITION FOR CONTROL VALVES', now()
+);
+
+/* INSERT QUERY NO: 271 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1543-201', 'MATERIAL REQUISITION FOR PNEUMATIC ON-OFF VALVES', now()
+);
+
+/* INSERT QUERY NO: 272 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1543-202', 'MATERIAL REQUISITION FOR ELECTRIC OPERATED VALVES', now()
+);
+
+/* INSERT QUERY NO: 273 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1545-201', 'MATERIAL REQUISITION FOR PRESSURE SAFETY VALVES AND RUPTURE DISKS', now()
+);
+
+/* INSERT QUERY NO: 274 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1546-201', 'MATERIAL REQUISITION FOR DIFFERENTIAL FLOW ELEMENTS', now()
+);
+
+/* INSERT QUERY NO: 275 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1546-205', 'MATERIAL REQUISITION FOR VENTURI AND V-CONE (FLOW NOZZLE)', now()
+);
+
+/* INSERT QUERY NO: 276 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1547-201', 'MATERIAL REQUISITION FOR VORTEX FLOW METERS', now()
+);
+
+/* INSERT QUERY NO: 277 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1547-206', 'MATERIAL REQUISITION FOR MASS FLOW METERS CORIOLIS EFFECT', now()
+);
+
+/* INSERT QUERY NO: 278 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1547-207', 'MATERIAL REQUISITION FOR MASS FLOW METERS CORIOLIS EFFECT', now()
+);
+
+/* INSERT QUERY NO: 279 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1552-202', 'MATERIAL REQUISITION FOR GUIDED WAVE RADARS LEVEL INSTRUMENTS', now()
+);
+
+/* INSERT QUERY NO: 280 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1552-206', 'MATERIAL REQUISITION FOR NUCLEAR LEVEL INSTRUMENTS', now()
+);
+
+/* INSERT QUERY NO: 281 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1552-208', 'MATERIAL REQUISITION FOR LEVEL MAGNETIC & GLASS GAUGES', now()
+);
+
+/* INSERT QUERY NO: 282 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1553-201', 'MATERIAL REQUISITION FOR ELECTRONIC TRANSMITTER', now()
+);
+
+/* INSERT QUERY NO: 283 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1553-231', 'MATERIAL REQUISITION FOR PRESSURE & TEMPERATURE GAUGES', now()
+);
+
+/* INSERT QUERY NO: 284 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1554-201', 'MATERIAL REQUISITION FOR THERMOCOUPLE/RTD WITH WELL', now()
+);
+
+/* INSERT QUERY NO: 285 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1558-201', 'MATERIAL REQUISITION FOR INJECTION QUILLS, SPRAY NOZZLES & CORROSION COUPONS', now()
+);
+
+/* INSERT QUERY NO: 286 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1564-201', 'MATERIAL REQUISITION FOR WATER ANALYZERS', now()
+);
+
+/* INSERT QUERY NO: 287 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1564-202', 'MATERIAL REQUISITION FOR WATER ANALYZERS', now()
+);
+
+/* INSERT QUERY NO: 288 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1565-201', 'MATERIAL REQUISITION FOR FLUE GAS AND CONTINUOUS EMISSION MONITORING SYSTEM (CEMS)', now()
+);
+
+/* INSERT QUERY NO: 289 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1566-201', 'MATERIAL REQUISITION FOR FIRE AND GAS FIELD SENSORS AND ACTUATING DEVICES', now()
+);
+
+/* INSERT QUERY NO: 290 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1572-201', 'MATERIAL REQUISITION FOR MOUNTING ACCESSORIES (TUBINGS, FITTINGS ETC.)', now()
+);
+
+/* INSERT QUERY NO: 291 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1572-202', 'MATERIAL REQUISITION FOR CABLE TRAYS', now()
+);
+
+/* INSERT QUERY NO: 292 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1574-201', 'MATERIAL REQUISITION FOR MULTICABLES AND FIBER OPTIC CABLES', now()
+);
+
+/* INSERT QUERY NO: 293 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1575-201', 'MATERIAL REQUISITION FOR JUNCTION BOX WITH CABLE GLANDS', now()
+);
+
+/* INSERT QUERY NO: 294 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1585-201', 'MATERIAL REQUISITION FOR ANALYZER SHELTER & MAIN PROCESS ANALYZERS', now()
+);
+
+/* INSERT QUERY NO: 295 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1611-201', 'MATERIAL REQUISITION FOR GROUNDING AND LIGHTNING MATERIAL', now()
+);
+
+/* INSERT QUERY NO: 296 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1620-201', 'MATERIAL REQUISITION FOR POWER MATERIAL LIGHTING PANELS AND POWER DISTRIBUTION PANELS', now()
+);
+
+/* INSERT QUERY NO: 297 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1621-201', 'MATERIAL REQUISITION FOR POWER CONTROL AND EARTHING CABLES AND MEDIUM VOLTAGE CABLE TERMINALS', now()
+);
+
+/* INSERT QUERY NO: 298 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1623-201', 'MATERIAL REQUISITION FOR ELECTRICAL CABLE TRAYS AND CONDUITS', now()
+);
+
+/* INSERT QUERY NO: 299 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1630-201', 'MATERIAL REQUISITION FOR LIGHTING MATERIALS POLES AND TOWERS', now()
+);
+
+/* INSERT QUERY NO: 300 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1641-201', 'MATERIAL REQUISITION FOR ELECTRICAL POWER AND DISTRIBUTION TRANSFORMERS AND NEUTRAL GROUNDING RESISTORS', now()
+);
+
+/* INSERT QUERY NO: 301 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1652-201', 'MATERIAL REQUISITION FOR MEDIUM VOLTAGE SWITCHGEAR (6.6KV)', now()
+);
+
+/* INSERT QUERY NO: 302 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1654-201', 'MATERIAL REQUISITION FOR LOW VOLTAGE SWITCHGEARS AND BUS DUCTS', now()
+);
+
+/* INSERT QUERY NO: 303 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1656-201', 'MATERIAL REQUISITION FOR MEDIUM VOLTAGE CAPACITOR BANKS (6.6KV)', now()
+);
+
+/* INSERT QUERY NO: 304 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1661-201', 'MATERIAL REQUISITION FOR ELECTRICAL MONITORING AND CONTROL SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 305 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1671-201', 'MATERIAL REQUISITION FOR AC AND DC UPS SYSTEMS', now()
+);
+
+/* INSERT QUERY NO: 306 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1682-201', 'MATERIAL REQUISITION FOR ELECTRICAL HEAT TRACING SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 307 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1800-201', 'MATERIAL REQUISITION FOR STEEL STRUCTURES - UNITS 17-19-47-61', now()
+);
+
+/* INSERT QUERY NO: 308 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1900-201', 'MATERIAL REQUISITION FOR FIREFIGHTING EQUIPMENT MATERIAL REQUISITION', now()
+);
+
+/* INSERT QUERY NO: 309 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-1900-202', 'MATERIAL REQUISITION FOR SAFETY EQUIPMENT', now()
+);
+
+/* INSERT QUERY NO: 310 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-2410-201', 'MATERIAL REQUISITION FOR CATHODIC PROTECTION', now()
+);
+
+/* INSERT QUERY NO: 311 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-2520-201', 'MATERIAL REQUISITION FOR SITE-ASSEMBLED STORAGE TANKS', now()
+);
+
+/* INSERT QUERY NO: 312 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-4046-201', 'MATERIAL REQUISITION FOR CHEMICAL INJECTION DOSING SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 313 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-4065-201', 'MATERIAL REQUISITION FOR BRIDGE CRANES', now()
+);
+
+/* INSERT QUERY NO: 314 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-4118-201', 'MATERIAL REQUISITION FOR FUEL GAS PREPARATION PACKAGE', now()
+);
+
+/* INSERT QUERY NO: 315 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-4123-201', 'MATERIAL REQUISITION FOR EMERGENCY DIESEL GENERATORS', now()
+);
+
+/* INSERT QUERY NO: 316 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-4141-201', 'MATERIAL REQUISITION FOR DESALTER PACKAGE (EX 2544-00-MR-4141-201)', now()
+);
+
+/* INSERT QUERY NO: 317 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-4261-201', 'MATERIAL REQUISITION FOR MECHANICAL AGITATORS', now()
+);
+
+/* INSERT QUERY NO: 318 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-MR-4263-201', 'MATERIAL REQUISITION FOR STATIC MIXERS', now()
+);
+
+/* INSERT QUERY NO: 319 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-0000-002', 'SUBCONTRACT BETWEEN ENPPI AND PETROJET - COMMON DOCUMENTS', now()
+);
+
+/* INSERT QUERY NO: 320 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-1300-002', 'SUBCONTRACT BETWEEN ENPPI AND PETROJET - PREFAB/ERECTION', now()
+);
+
+/* INSERT QUERY NO: 321 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-1400-002', 'SUBCONTRACT BETWEENENPPI AND PETROJET - UNDERGROUNG', now()
+);
+
+/* INSERT QUERY NO: 322 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-1500-002', 'SUBCONTRACT ENPPI AND PETROJET - INSTRUMENTATION', now()
+);
+
+/* INSERT QUERY NO: 323 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-1600-002', 'SUBCONTRACT BETWEEN ENPPI AND PETROJET - ELECTRICAL', now()
+);
+
+/* INSERT QUERY NO: 324 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-1700-002', 'SUBCONTRACT BETWEEN ENPPI AND PETROJET - CIVIL WORKS', now()
+);
+
+/* INSERT QUERY NO: 325 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-1800-002', 'SUBCONTRACT BETWEEN ENPPI AND PETROJET - STRUCTURES', now()
+);
+
+/* INSERT QUERY NO: 326 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-2000-002', 'SUBCONTRACT BETWEEN ENPPI AND PETROJET - BUILDINGS', now()
+);
+
+/* INSERT QUERY NO: 327 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-2200-002', 'SUBCONTRACT BETWEEN ENPPI AND PETROJET - INSULATION', now()
+);
+
+/* INSERT QUERY NO: 328 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-2300-002', 'SUBCONTRACT BETWEEN ENPPI AND PETROJET - PAINTING', now()
+);
+
+/* INSERT QUERY NO: 329 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-6800-002', 'SUBCONTRACT BETWEEN ENPPI AND PETROJET - MECHANICAL', now()
+);
+
+/* INSERT QUERY NO: 330 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0A-WC-8210-002', 'TEMPORARY CONSTRUCTION FACILITIES SUPPLY', now()
+);
+
+/* INSERT QUERY NO: 331 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0127-401', 'MATERIAL REQUISITION FOR CONVECTION MODULES PACKAGE (REF. 2544-00-MR-0127-401)', now()
+);
+
+/* INSERT QUERY NO: 332 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0132-401', 'MATERIAL REQUISITION FOR REFRACTORY LINING MATERIAL', now()
+);
+
+/* INSERT QUERY NO: 333 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0140-401', 'MATERIAL REQUISITION FOR INCINERATOR (EX-2544-00-MR-0140-401)', now()
+);
+
+/* INSERT QUERY NO: 334 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0168-401', 'MATERIAL REQUISITION FOR THERMAL REACTOR - WASTE HEAT BOILER - WHB STEAM DRUM (EX 2544-00-MR-0168-401)', now()
+);
+
+/* INSERT QUERY NO: 335 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0172-401', 'MATERIAL REQUISITION FOR STACK (EX 2544-00-MR-0172-401)', now()
+);
+
+/* INSERT QUERY NO: 336 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0191-401', 'MATERIAL REQUISITION FOR THERMAL REACTOR BURNER (EX 2544-00-MR-0191-401)', now()
+);
+
+/* INSERT QUERY NO: 337 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0191-402', 'MATERIAL REQUISITION FOR INCINERATOR BURNER (REF 2544-00-MR-0191-402)', now()
+);
+
+/* INSERT QUERY NO: 338 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0411-401', 'MATERIAL REQUISITION FOR SULPHUR REACTORS (EX 2544-00-MR-0410-401)', now()
+);
+
+/* INSERT QUERY NO: 339 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0511-401', 'MATERIAL REQUISITION FOR SHOP ASSEMBLED COLUMNS', now()
+);
+
+/* INSERT QUERY NO: 340 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0570-401', 'MATERIAL REQUISITION FOR TRAYS AND INTERNALS (PACKING) (REF. 2544-00-MR-0570-002)', now()
+);
+
+/* INSERT QUERY NO: 341 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0610-401', 'MATERIAL REQUISITION FOR SHELL AND TUBE HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 342 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0610-402', 'MATERIAL REQUISITION FOR SULPHUR CONDENSERS (EX 2544-00-MR-0610-403)', now()
+);
+
+/* INSERT QUERY NO: 343 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0630-401', 'MATERIAL REQUISITION FOR DOUBLE PIPE HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 344 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0661-401', 'MATERIAL REQUISITION FOR PLATE HEAT EXCHANGERS (EX 2544-00-MR-0661-401)', now()
+);
+
+/* INSERT QUERY NO: 345 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0710-401', 'MATERIAL REQUISITION FOR AIR COOLED HEAT EXCHANGERS (REF. 2544-00-MR-0710-001)', now()
+);
+
+/* INSERT QUERY NO: 346 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0811-401', 'MATERIAL REQUISITION FOR SPECIAL SERVICE PRESSURE VESSELS', now()
+);
+
+/* INSERT QUERY NO: 347 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0811-402', 'MATERIAL REQUISITION FOR SPECIAL SERVICE PRESSURE VESSELS', now()
+);
+
+/* INSERT QUERY NO: 348 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0813-402', 'MATERIAL REQUISITION FOR HYDRAULIC SEALS', now()
+);
+
+/* INSERT QUERY NO: 349 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0836-401', 'MATERIAL REQUISITION FOR SILENCERS', now()
+);
+
+/* INSERT QUERY NO: 350 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0841-401', 'MATERIAL REQUISITION FOR FILTERS', now()
+);
+
+/* INSERT QUERY NO: 351 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0852-401', 'MATERIAL REQUISITION FOR EJECTORS', now()
+);
+
+/* INSERT QUERY NO: 352 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0852-402', 'MATERIAL REQUISITION FOR EJECTORS', now()
+);
+
+/* INSERT QUERY NO: 353 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0853-401', 'MATERIAL REQUISITION FOR DESUPERHEATERS (REF. 2544-00-MR-0853-001)', now()
+);
+
+/* INSERT QUERY NO: 354 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0910-401', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 355 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0910-402', 'MATERIAL REQUISITION FOR VERTICAL SULPHUR PUMPS (EX 2544-00-MR-0910-402)', now()
+);
+
+/* INSERT QUERY NO: 356 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0910-403', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS (EX 2544-00-MR-0910-001)', now()
+);
+
+/* INSERT QUERY NO: 357 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-0912-401', 'MATERIAL REQUISITION FOR SUBMERGIBLE PUMPS', now()
+);
+
+/* INSERT QUERY NO: 358 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1040-401', 'MATERIAL REQUISITION FOR COMBUSTION AIR BLOWERS (EX 2544-00-MR-1041-401)', now()
+);
+
+/* INSERT QUERY NO: 359 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1042-401', 'MATERIAL REQUISITION FOR INCINERATOR AIR FANS (EX 2544-00-MR-1042-401)', now()
+);
+
+/* INSERT QUERY NO: 360 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1300-901', 'MATERIAL REQUISITION PIPING FOR TIE-IN', now()
+);
+
+/* INSERT QUERY NO: 361 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1310-401', 'MATERIAL REQUISITION FOR FORGED VALVES', now()
+);
+
+/* INSERT QUERY NO: 362 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1310-402', 'MATERIAL REQUISITION FOR CAST VALVES', now()
+);
+
+/* INSERT QUERY NO: 363 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1310-404', 'MATERIAL REQUISITION FOR BUTTERFLY VALVES', now()
+);
+
+/* INSERT QUERY NO: 364 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1310-406', 'MATERIAL REQUISITION FOR PLUG VALVES & JACKETED PLUG VALVES', now()
+);
+
+/* INSERT QUERY NO: 365 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1310-408', 'MATERIAL REQUISITION FOR BALL VALVES', now()
+);
+
+/* INSERT QUERY NO: 366 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1310-412', 'MATERIAL REQUISITION FOR CAST VALVES', now()
+);
+
+/* INSERT QUERY NO: 367 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1310-414', 'MATERIAL REQUISITION FOR DUAL PLATE CHECK VALVES', now()
+);
+
+/* INSERT QUERY NO: 368 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1310-901', 'MATERIAL REQUISITION VALVES FOR TIE-IN', now()
+);
+
+/* INSERT QUERY NO: 369 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1320-406', 'MATERIAL REQUISITION FOR TUBING AND COMPRESSION FITTINGS', now()
+);
+
+/* INSERT QUERY NO: 370 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1321-401', 'MATERIAL REQUISITION FOR CARBON STEEL AND ALLOY STEEL SEAMLSESS PIPES', now()
+);
+
+/* INSERT QUERY NO: 371 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1321-402', 'MATERIAL REQUISITION FOR CARBON AND ALLOY STEEL WELDED PIPES', now()
+);
+
+/* INSERT QUERY NO: 372 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1324-401', 'MATERIAL REQUISITION FOR STAINLESS STEEL PIPES', now()
+);
+
+/* INSERT QUERY NO: 373 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1328-402', 'MATERIAL REQUISITION FOR HOPE PIPING', now()
+);
+
+/* INSERT QUERY NO: 374 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1329-405', 'MATERIAL REQUISITION FOR PE COATED PIPES (UG)', now()
+);
+
+/* INSERT QUERY NO: 375 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1330-401', 'MATERIAL REQUISITION FOR BUTT WELDING FITTINGS', now()
+);
+
+/* INSERT QUERY NO: 376 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1340-401', 'MATERIAL REQUISITION FOR FORGED FITTINGS', now()
+);
+
+/* INSERT QUERY NO: 377 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1350-401', 'MATERIAL REQUISITION FOR FLANGES BLANKS AND DRIP RING', now()
+);
+
+/* INSERT QUERY NO: 378 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1360-401', 'MATERIAL REQUISITION FOR GASKETS', now()
+);
+
+/* INSERT QUERY NO: 379 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1370-401', 'MATERIAL REQUISITION FOR BOLTING', now()
+);
+
+/* INSERT QUERY NO: 380 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1383-401', 'MATERIAL REQUISITION FOR ITEMIZED PIPING SUPPORTS', now()
+);
+
+/* INSERT QUERY NO: 381 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1392-401', '"MATERIAL REQUISITION FOR STEAM TRAPS AND MANIFOLDS  STRAINERS AND SIGHT GLASSES"', now()
+);
+
+/* INSERT QUERY NO: 382 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1392-411', '"MATERIAL REQUISITION FOR EQUIPMENT/BULK MATERIAL	STEAM TRAPS AND MANIFOLDS  STRAINERS AND SIGHT GLASSES"', now()
+);
+
+/* INSERT QUERY NO: 383 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1396-401', 'MATERIAL REQUISITION FOR SAMPLE CONNECTIONS', now()
+);
+
+/* INSERT QUERY NO: 384 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1399-401', 'MATERIAL REQUISITION FOR SPECIAL PIPING MATERIAL (SPM)', now()
+);
+
+/* INSERT QUERY NO: 385 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1541-401', 'MATERIAL REQUISITION FOR CONTROL VALVES', now()
+);
+
+/* INSERT QUERY NO: 386 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1543-401', 'MATERIAL REQUISITION FOR PNEUMATIC ON OFF VALVES', now()
+);
+
+/* INSERT QUERY NO: 387 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1545-401', 'MATERIAL REQUISITION FOR PRESSURE SAFETY VALVES', now()
+);
+
+/* INSERT QUERY NO: 388 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1546-401', 'MATERIAL REQUISITION FOR PRIMARY FLOW ELEMENTS', now()
+);
+
+/* INSERT QUERY NO: 389 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1547-401', 'MATERIAL REQUISITION FOR SPECIAL FLOW METERS', now()
+);
+
+/* INSERT QUERY NO: 390 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1547-402', 'MATERIAL REQUISITION FOR VARIABLE AREA FLOWMETER', now()
+);
+
+/* INSERT QUERY NO: 391 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1552-401', 'MATERIAL REQUISITION FOR LEVEL TRANSMITTERS', now()
+);
+
+/* INSERT QUERY NO: 392 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1552-422', 'MATERIAL REQUISITION FOR LEVEL GAUGE', now()
+);
+
+/* INSERT QUERY NO: 393 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1553-401', 'MATERIAL REQUISITION FOR ELECTRONIC PRESSURE AND DIFFERENTIAL PRESSURE TRANSMITTERS', now()
+);
+
+/* INSERT QUERY NO: 394 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1553-430', 'MATERIAL REQUISITION FOR PRESSURE AND DIFF.PRESS.GAUGE', now()
+);
+
+/* INSERT QUERY NO: 395 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1554-401', 'MATERIAL REQUISITION FOR THRMOELEMENTS WELL CONVERTER', now()
+);
+
+/* INSERT QUERY NO: 396 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1554-404', 'MATERIAL REQUISITION FOR CERAMIC THERMOCOUPLE', now()
+);
+
+/* INSERT QUERY NO: 397 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1560-401', 'MATERIAL REQUISITION FOR ANALYZER', now()
+);
+
+/* INSERT QUERY NO: 398 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1565-401', 'MATERIAL REQUISITION FOR CEMS AND O2 AND COMBUSTIBLES IN FLUE GAS ANALYZERS', now()
+);
+
+/* INSERT QUERY NO: 399 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1566-401', 'MATERIAL REQUISITION FOR FIRE AND GAS FIELD SENSORS AND ACTUATING DEVICES', now()
+);
+
+/* INSERT QUERY NO: 400 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1571-401', 'MATERIAL REQUISITION LOCAL PANELS', now()
+);
+
+/* INSERT QUERY NO: 401 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1572-401', 'MATERIAL REQUISITION MOUNTING ACCESSORIES (TUBING & FITTINGS)', now()
+);
+
+/* INSERT QUERY NO: 402 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1572-411', 'MATERIAL REQUISITION FOR CABLE TRAY AND ACCESSORIES', now()
+);
+
+/* INSERT QUERY NO: 403 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1574-401', 'MATERIAL REQUISITION FOR CABLES TUBES & FIBER OPTIC CABLES', now()
+);
+
+/* INSERT QUERY NO: 404 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1575-401', 'MATERIAL REQUISITION FOR JUNCTION BOXES & CABLE GLANDS', now()
+);
+
+/* INSERT QUERY NO: 405 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1611-401', 'MATERIAL REQUISITION FOR EARTHING AND LIGHTNING MATERIAL', now()
+);
+
+/* INSERT QUERY NO: 406 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1620-401', 'MATERIAL REQUISITION FOR POWER MATERIAL', now()
+);
+
+/* INSERT QUERY NO: 407 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1621-401', 'MATERIAL REQUISITION FOR POWER AND CONTROL CABLES', now()
+);
+
+/* INSERT QUERY NO: 408 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1622-401', 'MATERIAL REQUISITION FOR ELECTRICAL CONDUITS', now()
+);
+
+/* INSERT QUERY NO: 409 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1623-401', 'MATERIAL REQUISITION FOR ELECTRICAL CABLE TRAYS', now()
+);
+
+/* INSERT QUERY NO: 410 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1630-401', 'MATERIAL REQUISITION FOR LIGHTING MATERIAL', now()
+);
+
+/* INSERT QUERY NO: 411 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1631-401', 'MATERIAL REQUISITION FOR LIGHTING PANELS', now()
+);
+
+/* INSERT QUERY NO: 412 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1684-401', 'MATERIAL REQUISITION FOR CATHODIC PROTECTION SYSTEM', now()
+);
+
+/* INSERT QUERY NO: 413 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1800-401', 'MATERIAL REQUISITION FOR STEEL STRUCTURES', now()
+);
+
+/* INSERT QUERY NO: 414 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1900-401', 'MATERIAL REQUISITION FOR FIREFIGHTING EQUIPMENT', now()
+);
+
+/* INSERT QUERY NO: 415 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-1900-402', 'MATERIAL REQUISITION FOR SAFETY EQUIPMENT', now()
+);
+
+/* INSERT QUERY NO: 416 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-2520-401', 'MATERIAL REQUISITION FOR STORAGE TANKS (REF. 2544-00-MR-2520-402/101)', now()
+);
+
+/* INSERT QUERY NO: 417 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-4046-401', 'MATERIAL REQUISITION FOR DOSING SYSTEMS', now()
+);
+
+/* INSERT QUERY NO: 418 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-4263-401', 'MATERIAL REQUISITION FOR STATIC MIXERS (REF. 2544-00-MR-4263-101)', now()
+);
+
+/* INSERT QUERY NO: 419 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-0C-MR-4300-401', 'MATERIAL REQUISITION FOR SULPHUR SOLIDIFICATION PACKAGE (REF.2544-00-MR-4300-402)', now()
+);
+
+/* INSERT QUERY NO: 420 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0110-R51', 'MATERIAL REQUISITION FOR FIRED HEATERS REVAMPING', now()
+);
+
+/* INSERT QUERY NO: 421 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0570-R51', 'MATERIAL REQUISITION FOR TRAYS AND INTERNALS FOR COLUMNS (REVAMP)', now()
+);
+
+/* INSERT QUERY NO: 422 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0610-503', 'MATERIAL REQUISITION FOR DCU SHELL AND TUBE HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 423 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0610-504', 'MATERIAL REQUISITION FOR DCU SHELL AND TUBE HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 424 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0630-501', 'MATERIAL REQUISITION FOR DCU HAIRPIN HEAT EXCHANGERS', now()
+);
+
+/* INSERT QUERY NO: 425 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0710-R51', 'MATERIAL REQUISITION FOR AIR COOLED HEAT EXCHANGERS (REVAMPING) UNIT 11', now()
+);
+
+/* INSERT QUERY NO: 426 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0811-503', 'MATERIAL REQUISITION FOR DCU PRESSURE VESSELS', now()
+);
+
+/* INSERT QUERY NO: 427 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0811-R51', 'MATERIAL REQUISITION FOR REVAMPING MISCELLANEA', now()
+);
+
+/* INSERT QUERY NO: 428 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0811-R52', 'MATERIAL REQUISITION FOR CONE FOR COKE DRUMS', now()
+);
+
+/* INSERT QUERY NO: 429 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0811-R53', 'DEBUTANIZER - ITE, 11-T-06 (REVAMP)', now()
+);
+
+/* INSERT QUERY NO: 430 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0841-501', 'MATERIAL REQUISITION FOR DCU FILTERS', now()
+);
+
+/* INSERT QUERY NO: 431 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0852-501', 'MATERIAL REQUISITION FOR DCU EJECTORS', now()
+);
+
+/* INSERT QUERY NO: 432 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0910-504', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS NEW PROCESS UNITS', now()
+);
+
+/* INSERT QUERY NO: 433 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0910-505', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 434 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0910-506', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS', now()
+);
+
+/* INSERT QUERY NO: 435 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0910-R51', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS (REVAMPING) FOR FLOWSERVE', now()
+);
+
+/* INSERT QUERY NO: 436 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0910-R53', 'MATERIAL REQUISITION FOR CENTRIFUGAL PUMPS (REVAMPING) - VENDOR: SUNDYNE', now()
+);
+
+/* INSERT QUERY NO: 437 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-0950-501', 'MATERIAL REQUISITION FOR MECHANICAL SEALS WITH API PLANS', now()
+);
+
+/* INSERT QUERY NO: 438 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-1011-501', 'MATERIAL REQUISITION FOR DCU CENTRIFUGAL COMPRESSORS', now()
+);
+
+/* INSERT QUERY NO: 439 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-1543-503', 'MATERIAL REQUISITION FOR COKER ISOLATION VALVES', now()
+);
+
+/* INSERT QUERY NO: 440 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-1543-504', 'MATERIAL REQUISITION FOR COKER ISOLATION VALVES', now()
+);
+
+/* INSERT QUERY NO: 441 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-1552-506', 'MATERIAL REQUISITION FOR NUCLEAR LEVEL TRANSMITTERS (EX CODE 2544-00-MR-1552-106/1512-106)', now()
+);
+
+/* INSERT QUERY NO: 442 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-1682-501', 'MATERIAL REQUISITION FOR ELECTRICAL HEAT TRACING UNIT 11', now()
+);
+
+/* INSERT QUERY NO: 443 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-1684-501', 'MATERIAL REQUISITION FOR CATHODIC PROTECTION UNIT 11', now()
+);
+
+/* INSERT QUERY NO: 444 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-1800-503', 'MATERIAL REQUISITION FOR STEEL STRUCTURES - UNIT 11', now()
+);
+
+/* INSERT QUERY NO: 445 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-4046-501', 'MATERIAL REQUISITION FOR DOSING SYSTEMS - VENDOR: LEWA NIKKISO SRL', now()
+);
+
+/* INSERT QUERY NO: 446 */
+INSERT INTO materialRequisition(code, description, created_at)
+VALUES
+(
+'2544-11-MR-4190-502', 'MATERIAL REQUISITION FOR UNHEADING BOTTOM VALVES (EX 2544-00-MR-4190-102)', now()
+);
+

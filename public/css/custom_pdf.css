@@ -1,0 +1,118 @@
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Create two equal columns that floats next to each other */
+  .col-sm-6 {
+    float: left !important;
+    width: 50% !important;
+    /*padding: 10px;*/
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table !important;
+    clear: both !important;
+  }
+
+  .form-check {
+    /*border: 1px solid #d5d9de;*/
+    /*box-sizing: border-box;*/
+    padding-bottom: 7px;
+  }
+  .auto-resize{
+      resize: both;
+      overflow: auto;
+  }
+  body{
+    font-size: 13px;
+    line-height:1.2;
+  }
+  .form-control {
+    font-size: 13px;
+    line-height:1.2;
+    border: 1px solid #212529;
+
+  }
+  .attachment-imgg {
+    float: left;
+    height: auto;
+    max-height: 158px;
+    max-width: 132px;
+  }
+  .attachment-blockk {
+      margin-bottom: 10px;
+      padding: 5px;
+  }
+  .col-form-label {
+    padding-top: calc(.375rem + 1px);
+    padding-bottom: calc(.375rem + 1px);
+    margin-bottom: 0;
+    font-size: inherit;
+    line-height: 1.5;
+}
+
+.col-sm-2 {
+    float: left !important;
+    max-width: 16.666667% !important;
+}
+.col-sm-3 {
+    float: left !important;
+    max-width: 25% !important;
+}
+
+.col-sm-4 {
+    float: left !important;
+    max-width: 33.333333% !important;
+}
+.col-sm-10 {
+    float: left !important;
+    max-width: 83.333333% !important;
+}
+.col-sm-9 {
+    float: left !important;
+    max-width: 75% !important;
+}
+.col-sm-8 {
+    float: left !important;
+    max-width: 66.666667% !important;
+}
+.col-sm-7 {
+    float: left !important;
+    max-width: 58.333333% !important;
+}
+.col-sm-5 {
+    float: left !important;
+    max-width: 41.666667%;!important;
+}
+
+hr {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: 0;
+    border-top: 1px solid #212529;
+}
+
+.table td, .table th {
+    padding: 5px;
+    vertical-align: top;
+    border-top: 1px solid #212529;
+     border: 1px solid #212529;
+
+}
+.table thead th {
+    border: 1px solid #212529;
+}
+
+.table-bordered {
+    border: 1px solid #212529;
+}
+tr {
+    border: 1px solid #212529;
+}
+
+.signature {
+    border: 0;
+    border-bottom: 1px solid #000;
+}
